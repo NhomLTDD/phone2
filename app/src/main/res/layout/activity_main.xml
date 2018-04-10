@@ -28,7 +28,7 @@
             android:background="#ffffff"
             android:gravity="center"
             android:lines="4"
-            android:paddingTop="10px"
+            android:paddingTop="9px"
             android:textColor="#000000"
             android:textSize="30px" />
 
