@@ -79,7 +79,7 @@
                     android:layout_height="110px"
                     android:gravity="center"
                     android:text="4"
-                    android:textSize="25dp" />
+                    android:textSize="26dp" />
 
                 <Button
                     android:id="@+id/button5"
